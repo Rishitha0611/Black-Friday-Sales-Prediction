@@ -1,6 +1,6 @@
 # Black-Friday-Sales-Prediction
 
-**Variable Definition** \n
+**Variable Definition** 
 
 User Id: Not Unique, maps person to the particular purchase
 Product Id: Not Unique, tells how many purchases are made for a product
